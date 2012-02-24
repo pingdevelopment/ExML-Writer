@@ -5,7 +5,7 @@ using System.Text;
 using System.Configuration;
 using System.Globalization;
 
-namespace WellsFargo.ExcelML.Configuration
+namespace PingDevelopment.ExcelML.Configuration
 {
     public class DateTimeDataElement : BaseFormatElement
     {
