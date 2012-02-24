@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Data;
 using System.Xml;
-using WellsFargo.ExcelML.Configuration;
+using PingDevelopment.ExcelML.Configuration;
 using System.Configuration;
 
-namespace WellsFargo.ExcelML
+namespace PingDevelopment.ExcelML
 {
     public class ExcelML : IDisposable
     {
