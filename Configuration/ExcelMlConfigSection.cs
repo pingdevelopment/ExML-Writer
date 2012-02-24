@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Configuration;
 
-namespace WellsFargo.ExcelML.Configuration
+namespace PingDevelopment.ExcelML.Configuration
 {
     public class ExcelMlConfigSection : ConfigurationSection
     {
