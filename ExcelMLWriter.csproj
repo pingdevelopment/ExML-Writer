@@ -8,8 +8,8 @@
     <ProjectGuid>{67AA4C85-591F-42AF-9F24-C00A60F09C8C}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>WellsFargo.ExcelML</RootNamespace>
-    <AssemblyName>WellsFargo.ExcelML</AssemblyName>
+    <RootNamespace>PingDevelopment.ExcelML</RootNamespace>
+    <AssemblyName>PingDevelopment.ExcelML</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
