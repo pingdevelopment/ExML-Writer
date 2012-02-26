@@ -1,16 +1,17 @@
-+=================================================================================================
++==========================================================================
 | ExcelML Writer
 | Version 1.0
 |
 | ExcelML Writer is published under the Apache License 2.0.
 |
-| ExcelML Writer translates any DataTable or DataSet object into an Excel-readable workbook. It
-| can apply styling to header rows as defined in the configuration file (see attached "Test"
-| project). Multiple DataTables are processed into multiple worksheets and the data is output
-| into columns, as it would look in a database table. The information can then be manipulated
-| as any other Excel spreadsheet.
+| ExcelML Writer translates any DataTable or DataSet object into an Excel-
+| readable workbook. It can apply styling to header rows as defined in the 
+| configuration file (see attached "Test" project). Multiple DataTables are 
+| processed into multiple worksheets and the data is output into columns, 
+| as it would look in a database table. The information can then be 
+| manipulated as any other Excel spreadsheet.
 |
-+=================================================================================================
++==========================================================================
 
 REQUIREMENTS
 1. Visual Studio 2008 SP1
