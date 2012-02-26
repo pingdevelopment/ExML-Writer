@@ -9,7 +9,7 @@
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>PingDevelopment.ExcelML</RootNamespace>
-    <AssemblyName>PingDevelopment.ExcelML</AssemblyName>
+    <AssemblyName>ExcelML</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

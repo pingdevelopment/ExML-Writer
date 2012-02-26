@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 10.00
 # Visual Studio 2008
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelMLWriter", "ExcelMLWriter.csproj", "{67AA4C85-591F-42AF-9F24-C00A60F09C8C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelMLWriter", "Writer\ExcelMLWriter.csproj", "{67AA4C85-591F-42AF-9F24-C00A60F09C8C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelMLTest", "..\ConsoleApplication1\ExcelMLTest.csproj", "{112ADED5-A1C3-4779-B95A-01C8747C07DC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelMLTest", "Test\ExcelMLTest.csproj", "{112ADED5-A1C3-4779-B95A-01C8747C07DC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
