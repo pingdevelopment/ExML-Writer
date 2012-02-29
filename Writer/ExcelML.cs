@@ -17,7 +17,7 @@ namespace PingDevelopment.ExcelML
         private string _author = "ExcelML Library";
         private DateTime _dateCreated = DateTime.Now;
         private DateTime _dateModified = DateTime.Now;
-        private string _company = "Wells Fargo &amp; Co.";
+        private string _company = "";
         private string _documentVersion = "12.00";
 
         private DataSet _inputData = null;
