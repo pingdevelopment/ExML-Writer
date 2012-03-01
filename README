@@ -1,10 +1,10 @@
 +==========================================================================
-| ExcelML Writer
+| ExML Writer
 | Version 1.0
 |
-| ExcelML Writer is published under the Apache License 2.0.
+| ExML Writer is published under the Apache License 2.0.
 |
-| ExcelML Writer translates any DataTable or DataSet object into an Excel-
+| ExML Writer translates any DataTable or DataSet object into an Excel-
 | readable workbook. It can apply styling to header rows as defined in the 
 | configuration file (see attached "Test" project). Multiple DataTables are 
 | processed into multiple worksheets and the data is output into columns, 
